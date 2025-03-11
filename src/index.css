@@ -8,4 +8,5 @@
 #root {
   min-height: 100vh;
   display: flex;
+  /* background-color: black; Set background color to black */
 }
