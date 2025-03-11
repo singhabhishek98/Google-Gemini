@@ -4,7 +4,7 @@
 Google Gemini Clone is a React.js web application that replicates the search interface of Google Gemini. This project includes API integration with Google Gemini's language model, allowing users to experience a similar search experience. With this clone, users can explore the functionalities and design of Google Gemini within a React.js environment.
 
 <div align="center">
-  <img src="https://github.com/singhabhishek98/Google-Gemini/blob/main/src/assets/output.png"/>
+  <img src="https://github.com/singhabhishek98/Google-Gemini/blob/main/UI.png"/>
 </div>
 
 # How to use
